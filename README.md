@@ -1,10 +1,16 @@
-# Hi, I'm FS
+# Hi, I'm FS / 你好，我是 FS
 
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-stack+developer+in+progress;Building+with+Vue%2C+TypeScript%2C+Java+and+Python;Exploring+AI+tools%2C+automation+and+developer+workflows"
     alt="Typing SVG"
   />
+</p>
+
+<p align="center">
+  <a href="#中文版本">中文</a>
+  ·
+  <a href="#english-version">English</a>
 </p>
 
 <p align="center">
@@ -17,16 +23,16 @@
   <img src="https://img.shields.io/badge/Focus-Full--stack%20%2B%20AI%20tools-8b5cf6?style=flat" alt="Focus" />
 </p>
 
-## About Me
+## 中文版本
 
-I enjoy building practical software across frontend, backend, automation, and AI-assisted workflows.
+我喜欢把想法做成真正可用的东西，关注前端交互、后端服务、自动化脚本和 AI 工具链。
 
-- Working with **Vue**, **TypeScript**, **JavaScript**, **Java / Spring Boot**, **Python**, and **Docker**
-- Exploring **AI agents**, **developer tools**, **chat systems**, and **media generation workflows**
-- Interested in turning rough ideas into usable products with clean interfaces and reliable engineering
-- Currently sharpening my full-stack fundamentals through hands-on projects and experiments
+- 常用技术：**Vue**、**TypeScript**、**JavaScript**、**Java / Spring Boot**、**Python**、**Docker**
+- 正在探索：**AI Agent**、**开发者工具**、**聊天系统**、**媒体生成工作流**
+- 偏好的方向：清晰的界面、稳定的工程结构、能真正节省时间的自动化
+- 目前也在持续补强全栈基础：数据库、部署、系统设计和算法
 
-## Tech Stack
+## 技术栈
 
 <p>
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
@@ -38,31 +44,31 @@ I enjoy building practical software across frontend, backend, automation, and AI
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-## What I'm Exploring
+## 正在关注
 
 ```text
-Frontend       Vue, TypeScript, interactive UI, developer experience
-Backend        Java / Spring Boot, Node.js APIs, Python services
-Automation     Docker workflows, scripts, GitHub Actions, API integrations
-AI Tools       Agent workflows, chat systems, media generation, model adapters
-Learning       Data structures, databases, cloud deployment, system design
+前端        Vue, TypeScript, 交互界面, 开发体验
+后端        Java / Spring Boot, Node.js API, Python 服务
+自动化      Docker, 脚本, GitHub Actions, API 集成
+AI 工具     Agent 工作流, 聊天系统, 媒体生成, 模型适配
+学习方向    数据库, 云部署, 系统设计, 数据结构与算法
 ```
 
-## Open Source Interests
+## 开源兴趣
 
-These are public repositories I follow, study, or fork while exploring AI tools, automation, and cloud-native utilities:
+这些是我公开关注、学习或 fork 的项目方向：
 
-| Repository | Area |
+| 仓库 | 方向 |
 | --- | --- |
-| [waoowaoo](https://github.com/SSF0/waoowaoo) | AI-assisted media production |
-| [anyrouter-check-in](https://github.com/SSF0/anyrouter-check-in) | Multi-platform automation |
-| [jetbrainsai2api](https://github.com/SSF0/jetbrainsai2api) | AI API adapter service |
-| [CloudFlare-ImgBed](https://github.com/SSF0/CloudFlare-ImgBed) | Cloudflare-based file hosting |
+| [waoowaoo](https://github.com/SSF0/waoowaoo) | AI 辅助影视/媒体生产 |
+| [anyrouter-check-in](https://github.com/SSF0/anyrouter-check-in) | 多平台自动化 |
+| [jetbrainsai2api](https://github.com/SSF0/jetbrainsai2api) | AI API 适配服务 |
+| [CloudFlare-ImgBed](https://github.com/SSF0/CloudFlare-ImgBed) | Cloudflare 文件托管 |
 
-## GitHub Stats
+## GitHub 数据
 
 <p align="center">
   <img
@@ -84,7 +90,7 @@ These are public repositories I follow, study, or fork while exploring AI tools,
   />
 </p>
 
-## Connect
+## 联系我
 
 <p>
   <a href="https://github.com/SSF0">
@@ -93,6 +99,51 @@ These are public repositories I follow, study, or fork while exploring AI tools,
 </p>
 
 ---
+
+## English Version
+
+I enjoy turning rough ideas into practical software, especially across frontend interfaces, backend services, automation, and AI-assisted workflows.
+
+- Working with **Vue**, **TypeScript**, **JavaScript**, **Java / Spring Boot**, **Python**, and **Docker**
+- Exploring **AI agents**, **developer tools**, **chat systems**, and **media generation workflows**
+- Interested in clean interfaces, stable engineering, and automation that saves real time
+- Currently sharpening full-stack fundamentals: databases, deployment, system design, and algorithms
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+## Current Focus
+
+```text
+Frontend       Vue, TypeScript, interactive UI, developer experience
+Backend        Java / Spring Boot, Node.js APIs, Python services
+Automation     Docker workflows, scripts, GitHub Actions, API integrations
+AI Tools       Agent workflows, chat systems, media generation, model adapters
+Learning       Databases, cloud deployment, system design, data structures
+```
+
+## Open Source Interests
+
+These are public repositories I follow, study, or fork while exploring AI tools, automation, and cloud-native utilities:
+
+| Repository | Area |
+| --- | --- |
+| [waoowaoo](https://github.com/SSF0/waoowaoo) | AI-assisted media production |
+| [anyrouter-check-in](https://github.com/SSF0/anyrouter-check-in) | Multi-platform automation |
+| [jetbrainsai2api](https://github.com/SSF0/jetbrainsai2api) | AI API adapter service |
+| [CloudFlare-ImgBed](https://github.com/SSF0/CloudFlare-ImgBed) | Cloudflare-based file hosting |
 
 <p align="center">
   Building, learning, and shipping one small improvement at a time.
