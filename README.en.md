@@ -1,4 +1,4 @@
-# Hi, I'm FS / 你好，我是 FS
+# Hi, I'm FS
 
 <p align="center">
   <img
@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <strong>中文</strong>
+  <a href="./README.md">中文</a>
   ·
-  <a href="./README.en.md">English</a>
+  <strong>English</strong>
 </p>
 
 <p align="center">
@@ -23,16 +23,16 @@
   <img src="https://img.shields.io/badge/Focus-Full--stack%20%2B%20AI%20tools-8b5cf6?style=flat" alt="Focus" />
 </p>
 
-## 关于我
+## About Me
 
-我喜欢把想法做成真正可用的东西，关注前端交互、后端服务、自动化脚本和 AI 工具链。
+I enjoy turning rough ideas into practical software, especially across frontend interfaces, backend services, automation, and AI-assisted workflows.
 
-- 常用技术：**Vue**、**TypeScript**、**JavaScript**、**Java / Spring Boot**、**Python**、**Docker**
-- 正在探索：**AI Agent**、**开发者工具**、**聊天系统**、**媒体生成工作流**
-- 偏好的方向：清晰的界面、稳定的工程结构、能真正节省时间的自动化
-- 目前也在持续补强全栈基础：数据库、部署、系统设计和算法
+- Working with **Vue**, **TypeScript**, **JavaScript**, **Java / Spring Boot**, **Python**, and **Docker**
+- Exploring **AI agents**, **developer tools**, **chat systems**, and **media generation workflows**
+- Interested in clean interfaces, stable engineering, and automation that saves real time
+- Currently sharpening full-stack fundamentals: databases, deployment, system design, and algorithms
 
-## 技术栈
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
@@ -47,28 +47,28 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-## 正在关注
+## Current Focus
 
 ```text
-前端        Vue, TypeScript, 交互界面, 开发体验
-后端        Java / Spring Boot, Node.js API, Python 服务
-自动化      Docker, 脚本, GitHub Actions, API 集成
-AI 工具     Agent 工作流, 聊天系统, 媒体生成, 模型适配
-学习方向    数据库, 云部署, 系统设计, 数据结构与算法
+Frontend       Vue, TypeScript, interactive UI, developer experience
+Backend        Java / Spring Boot, Node.js APIs, Python services
+Automation     Docker workflows, scripts, GitHub Actions, API integrations
+AI Tools       Agent workflows, chat systems, media generation, model adapters
+Learning       Databases, cloud deployment, system design, data structures
 ```
 
-## 开源兴趣
+## Open Source Interests
 
-这些是我公开关注、学习或 fork 的项目方向：
+These are public repositories I follow, study, or fork while exploring AI tools, automation, and cloud-native utilities:
 
-| 仓库 | 方向 |
+| Repository | Area |
 | --- | --- |
-| [waoowaoo](https://github.com/SSF0/waoowaoo) | AI 辅助影视/媒体生产 |
-| [anyrouter-check-in](https://github.com/SSF0/anyrouter-check-in) | 多平台自动化 |
-| [jetbrainsai2api](https://github.com/SSF0/jetbrainsai2api) | AI API 适配服务 |
-| [CloudFlare-ImgBed](https://github.com/SSF0/CloudFlare-ImgBed) | Cloudflare 文件托管 |
+| [waoowaoo](https://github.com/SSF0/waoowaoo) | AI-assisted media production |
+| [anyrouter-check-in](https://github.com/SSF0/anyrouter-check-in) | Multi-platform automation |
+| [jetbrainsai2api](https://github.com/SSF0/jetbrainsai2api) | AI API adapter service |
+| [CloudFlare-ImgBed](https://github.com/SSF0/CloudFlare-ImgBed) | Cloudflare-based file hosting |
 
-## GitHub 数据
+## GitHub Stats
 
 <p align="center">
   <img
@@ -90,7 +90,7 @@ AI 工具     Agent 工作流, 聊天系统, 媒体生成, 模型适配
   />
 </p>
 
-## 联系我
+## Connect
 
 <p>
   <a href="https://github.com/SSF0">
@@ -99,5 +99,5 @@ AI 工具     Agent 工作流, 聊天系统, 媒体生成, 模型适配
 </p>
 
 <p align="center">
-  持续学习、持续构建，把每一个小改进慢慢做扎实。
+  Building, learning, and shipping one small improvement at a time.
 </p>
